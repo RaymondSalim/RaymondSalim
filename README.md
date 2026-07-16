@@ -8,8 +8,8 @@ experience := struct {
         toolsFrameworks []string
     } {
         name: "Raymond Salim",
--       yearsOfExperience: 2,
-+       yearsOfExperience: 3,
+-       yearsOfExperience: 4,
++       yearsOfExperience: 5,
         linkedInURL: "https://www.linkedin.com/in/raymondsalim/",
         personalSite: "https://raymonds.dev",
         languages: [...]string{"Golang", "JavaScript/TypeScript", "Java", "Python", "PHP", "Kotlin"},
